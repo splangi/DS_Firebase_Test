@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FirebaseTest</string>
     <string name="title_activity_maps">FirebaseTest</string>
+    <string name="facebook_app_id">190729031312075</string>
 </resources>

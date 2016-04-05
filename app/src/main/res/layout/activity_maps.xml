@@ -10,5 +10,27 @@
         android:layout_height="match_parent"
         tools:context="plangitech.ee.firebasetest.MapsActivity" />
 
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:background="@android:color/white"
+        android:padding="10dp"
+        android:minHeight="0dp"
+        android:text="Login" />
+
+   <!-- <android.support.v7.widget.SwitchCompat
+        android:id="@+id/onlineSwitch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:background="@android:color/white"
+        android:padding="10dp"
+        android:text="Send location" />-->
+
 
 </RelativeLayout>
